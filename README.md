@@ -1,8 +1,8 @@
 # language-of-colors
 
-An experiment demonstrating a proposed model of dynamics of learning color terms in population. 
+An experiment demonstrating a proposed model of dynamics of learning color terms in population.
 
-To run a simulation, in cloned repository run R and paste the following:
+To run a simulation, in the cloned repository run R and paste the following code:
 
 ```R
 source("src.R")
