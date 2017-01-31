@@ -2,7 +2,7 @@
 
 An experiment demonstrating a proposed model of dynamics of learning color terms in population.
 
-To run a simulation, in the cloned repository run R and paste the following code:
+To run a simulation, in the cloned repository run R (or open RStudio and set a proper working directory) and paste the following code:
 
 ```R
 source("src.R")
